@@ -1,3 +1,9 @@
+# Building Hive UDAF
+
+Refer Links:
+    https://blog.dataiku.com/2013/05/01/a-complete-guide-to-writing-hive-udf
+    https://dzone.com/articles/writing-custom-hive-udf-andudaf
+
 # Building a Hive UDF
 
 Hive user-defined functions, or **UDFs**, are custom functions that can be developed in Java, integrated with Hive, and built on top of a Hadoop cluster to allow for efficient and complex computation that would not otherwise be possible with simple SQL. They can be useful and very powerful, and yet online documentation is pretty weak. As a part of my internship during the summer of 2019, I built a Hive UDF used to classify a customers feature/product usage. Online documentation is weak, so this is a start-to-finish tutorial on how to build a simple Hive UDF that reverses a string. 
