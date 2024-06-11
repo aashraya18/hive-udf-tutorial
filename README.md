@@ -285,4 +285,4 @@ Then, within hive, drop the function as follows: `drop {function name}`. Ex. `dr
 I hope this tutorial was helpful and that you now have a better understanding of how UDFs work, how they can be built, and how they can be integrated within Hive. If you have any comments or questions, feel free to shoot me an email at jackgoettle23@gmail.com. Good luck and happy coding!
 
 
-
+kubeadm join 172.31.103.94:6443 --token 55sjz9.f6x0tt1p0cgwl37g \  --discovery-token-ca-cert-hash sha256:97e372b19feb8b0d060f9766efbecb25700387f6eb90634ea108d821aeeb235e
